@@ -4,11 +4,11 @@
  Позволяет увидеть в игре уникальную фразу аргонианина Греющегийся-на-солнце (корабельщик на Солстхейме) на тему "Солстхейм". По умолчанию она стоит ниже фразы для всех, кто находится в Форте Инеевой Бабочки, поэтому он её не произносит.
 
 ## **Установка:**
-Разместите файл .lua в Morrowind\Data Files\mwse\mods\Basks-in-the-sun (создайте папку Basks-in-the-sun).
+Разместите файл .lua в Morrowind\Data Files\mwse\mods\Basks-in-the-sun Dialogue Fix (создайте папку Basks-in-the-sun Dialogue Fix).
 
 ### **Зависимости:**
 Необходима игра Morrowind на оригинальном движке (не OpenMW) и MWSE 2.1+ версии для поддержки lua.  
 [Ссылка на MGE XE, в комплекте с которым идет MWSE](https://www.nexusmods.com/morrowind/mods/41102)
 
-## **Удаление**
-Удалите папку Morrowind\Data Files\mwse\mods\Basks-in-the-sun.
+## **Удаление:**
+Удалите папку Morrowind\Data Files\mwse\mods\Basks-in-the-sun Dialogue Fix.
